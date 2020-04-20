@@ -19,4 +19,4 @@ Live demo: [https://peter.ee/show/stroopy](https://peter.ee/show/stroopy)
 
 - Add an instructions page or pop-up
 - Implement a local highscore system (browser localStorage?)
-- Add a third mode (i.e. Word, Colour and Ball) whereby the ball changes colour and the player must go through the same colour as the ball if the "Ball" mode is highlighted
+- Add a third "mode" (e.g. Word, Colour and Ball)

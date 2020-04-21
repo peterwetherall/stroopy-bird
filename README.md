@@ -14,7 +14,6 @@ Live demo: [https://peter.ee/show/stroopy](https://peter.ee/show/stroopy)
 ### Bugs 🐛
 
 - Playing on a monitor with a high frequency refresh rate makes the game much trickier as the game loop is determined by the [browser's refresh rate](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
-- Text sizing problem on phones with small screen dimensions
 
 ### Future ideas 💡
 

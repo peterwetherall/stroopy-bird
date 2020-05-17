@@ -9,7 +9,7 @@ If the mode is "Word" the player must go through the colour that the word descri
 
 This sounds confusing but the game is fairly intuitive after you play it for a few rounds.
 
-Live demo: [https://peter.ee/show/stroopy](https://peter.ee/show/stroopy)
+**Demo:** [https://peterwetherall.github.io/stroopy-bird](https://peterwetherall.github.io/stroopy-bird)
 
 ### Bugs 🐛
 

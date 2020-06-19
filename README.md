@@ -9,8 +9,6 @@ If the mode is "Word" the player must go through the colour that the word descri
 
 This sounds confusing but the game is fairly intuitive after you play it for a few rounds.
 
-**Demo:** [https://peterwetherall.github.io/stroopy-bird/](https://peterwetherall.github.io/stroopy-bird/)
-
 ### Bugs 🐛
 
 - Playing on a monitor with a high frequency refresh rate makes the game much trickier as the game loop is determined by the [browser's refresh rate](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
